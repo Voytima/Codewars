@@ -1,4 +1,5 @@
 def kooka_counter(laughing):
+
     if len(laughing) == 0:
         return 0
 
